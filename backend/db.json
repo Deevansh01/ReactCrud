@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "c7ac",
+      "username": "Jagmeet",
+      "useremail": "bca@gmail.com",
+      "userpassword": "11111",
+      "userPhoneNo": "8808240875"
+    },
+    {
+      "id": "27ca",
+      "username": "Deevansh katare",
+      "useremail": "pqr12@gmail.com",
+      "userpassword": "12345",
+      "userPhoneNo": "9305725765"
+    },
+    {
+      "id": "957f",
+      "username": "Deevansh",
+      "useremail": "katare8808@gmail.com",
+      "userpassword": "katare",
+      "userPhoneNo": "9305725765"
+    },
+    {
+      "id": "dd3a",
+      "username": "Manish",
+      "useremail": "rahul@gmail.com",
+      "userpassword": "12345",
+      "userPhoneNo": "9823892345"
+    },
+    {
+      "id": "ab06",
+      "username": "admin",
+      "useremail": "admin@gmail.com",
+      "userpassword": "admin123",
+      "userPhoneNo": "9990009991"
+    }
+  ]
+}
